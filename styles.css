@@ -58,24 +58,22 @@ a {
   width: 450px
 }
 
-button {
+.hero a,
+.cta a {
   background-color: #3882f6;
   color: #f9faf8;
   font-size: 18px;
   font-weight: 600;
   border-radius: 7px;
-  padding: 6px 0;
-}
-
-button a {
   padding: 6px 32px;
 }
 
-.hero button {
+
+.hero a {
   border: 0;
 }
 
-.hero button:hover {
+.hero a:hover {
   background-color: #1f2937;
   border: 1px solid #f9faf8;
 }
@@ -125,6 +123,6 @@ font-size: 18px;
   font-size: 18px;
 }
 
-.cta button {
+.cta a {
   border: solid #f9faf8;
 }
