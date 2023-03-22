@@ -10,11 +10,13 @@ During this project I will use many abilities I've learned with both HTML and CS
 -Using Chrome DevTools to test and de-bug my web-page.
 -A clear understanding on how to create a web page with just a design concept to go off of.
 
-All images found on: https://www.pexels.com/
-Image credits: "Creative Photo of Person Holding Glass Mason Jar Under A Starry Sky" - Racicevic Nenad.
-"Rock Formation during Night Time" - Pixabay.
-"Planet Earth" - Pixabay.
-"Time Lapse Photography of Taking-off Rocket" - Pixabay.
-"Astronaut Photography" - Pixabay.
+All images found on: https://www.pexels.com/  
+Image credits: "Creative Photo of Person Holding Glass Mason Jar Under A Starry Sky" - Racicevic Nenad.  
+"Rock Formation during Night Time" - Pixabay.  
+"Planet Earth" - Pixabay.  
+"Time Lapse Photography of Taking-off Rocket" - Pixabay.  
+"Astronaut Photography" - Pixabay.  
+
+[Live App](https://brinlewis.github.io/odin-landingpage/)
 
 
